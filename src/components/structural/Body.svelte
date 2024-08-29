@@ -203,7 +203,7 @@
 					description: "Various mini projects for learning and exploring new technologies",
 					list: [
 						"Score board controller using UART communication - Flutter",
-						"On-premises server [RPi-5] for web deployement - http://semp.myddns.me/ [React with Bun]",
+						"Pastebin alike app with Tonic[Rust] and React - semp.myftp.org/txts",
 						"Gemini and ChatGPT API integration on communication platform - Nodejs",
 					]
 				}
