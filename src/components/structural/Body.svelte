@@ -229,7 +229,7 @@
 			details: [
 				{
 					title: "Zoho Corporation",
-					url: "https://cliqtrix.com/archives/2024",
+					url: "https://drive.google.com/file/d/1Jv26DPK8yOZXYTMeDG_p96y53iPtxlLe/view?usp=sharing",
 					link: "Summer Intern [Feb 2024 - April 2024]",
 					description : "Worked on the few projects for Zoho Cliq Extension integrations.",
 				},	
