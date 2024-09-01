@@ -39,9 +39,9 @@
 		{:else if type === 'phone'}
 			<a href="tel:{text}">{text}</a>
 		{:else if url}
-			<a href="http://{url}">{text}</a>
+			<a href="{url}">{text}</a>
 		{:else}
-			<a href="http://{text}">{text}</a>
+			<a href="{text}">{text}</a>
 		{/if}
 	<!-- svelte-ignore a11y-missing-attribute -->
 	{:else}<a>{text}</a>{/if}
