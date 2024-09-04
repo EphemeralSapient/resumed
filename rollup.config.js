@@ -13,6 +13,12 @@ export default {
 		format: 'iife',
 		name: 'app',
 		file: 'public/build/bundle.js',
+		paths: (id) => {
+			if (id.startsWith('/')) {
+			  return `/${id}`;
+			}
+			return id;
+		  }
 	},
 	plugins: [
 		svelte({

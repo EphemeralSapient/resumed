@@ -53,14 +53,14 @@
 			type: 'skills',
 			label: 'Skills',
 			details: [
-				["https://img.icons8.com/color/48/flutter.png","Flutter"],
-				["https://img.icons8.com/plasticine/100/react.png","React"],
-				["https://img.icons8.com/color/48/python--v1.png", "Python"],
-				["https://img.icons8.com/external-tal-revivo-bold-tal-revivo/24/external-rust-is-a-multi-paradigm-system-programming-language-logo-bold-tal-revivo.png", "Rust"],
-				["https://img.icons8.com/color/48/linux--v1.png","Linux"],
-				["https://img.icons8.com/fluency/48/azure-1.png", "Azure"],
-				["https://img.icons8.com/external-those-icons-flat-those-icons/24/external-MySQL-programming-and-development-those-icons-flat-those-icons.png", "MySQL"],
-				["https://img.icons8.com/color/48/mongo-db.png","MongoDB"]
+				["/png/flutter.png","Flutter"],
+				["/png/react.png","React"],
+				["/png/python.png", "Python"],
+				["/png/rust.png", "Rust"],
+				["/png/linux.png","Linux"],
+				["/png/azure.png", "Azure"],
+				["/png/mysql.png", "MySQL"],
+				["/png/mongo-db.png","MongoDB"]
 				
 			],
 		},
