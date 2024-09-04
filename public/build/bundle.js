@@ -2700,7 +2700,7 @@ var app = (function () {
     			attr_dev(img, "width", "20");
     			attr_dev(img, "height", "20");
     			if (img.src !== (img_src_value = /*skillImage*/ ctx[1])) attr_dev(img, "src", img_src_value);
-    			attr_dev(img, "alt", /*skillName*/ ctx[0]);
+    			attr_dev(img, "alt", "");
     			attr_dev(img, "class", "svelte-1wl2oum");
     			add_location(img, file$6, 26, 19, 558);
     			attr_dev(div, "class", "skill svelte-1wl2oum");
@@ -2718,10 +2718,6 @@ var app = (function () {
     		p: function update(ctx, [dirty]) {
     			if (dirty & /*skillImage*/ 2 && img.src !== (img_src_value = /*skillImage*/ ctx[1])) {
     				attr_dev(img, "src", img_src_value);
-    			}
-
-    			if (dirty & /*skillName*/ 1) {
-    				attr_dev(img, "alt", /*skillName*/ ctx[0]);
     			}
 
     			if (dirty & /*skillName*/ 1) set_data_dev(t1, /*skillName*/ ctx[0]);
