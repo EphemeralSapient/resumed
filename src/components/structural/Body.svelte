@@ -53,14 +53,14 @@
 			type: 'skills',
 			label: 'Skills',
 			details: [
-				["/png/flutter.png","Flutter"],
-				["/png/react.png","React"],
-				["/png/python.png", "Python"],
-				["/png/rust.png", "Rust"],
-				["/png/linux.png","Linux"],
-				["/png/azure.png", "Azure"],
-				["/png/mysql.png", "MySQL"],
-				["/png/mongo-db.png","MongoDB"]
+				["/resumed/png/flutter.png","Flutter"],
+				["/resumed/png/react.png","React"],
+				["/resumed/png/python.png", "Python"],
+				["/resumed/png/rust.png", "Rust"],
+				["/resumed/png/linux.png","Linux"],
+				["/resumed/png/azure.png", "Azure"],
+				["/resumed/png/mysql.png", "MySQL"],
+				["/resumed/png/mongo-db.png","MongoDB"]
 				
 			],
 		},

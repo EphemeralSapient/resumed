@@ -3894,7 +3894,7 @@ var app = (function () {
     			t = space();
     			create_component(sidecolumn.$$.fragment);
     			attr_dev(div, "class", "main-body svelte-sc6yfg");
-    			add_location(div, file$b, 256, 0, 8672);
+    			add_location(div, file$b, 256, 0, 8736);
     		},
     		l: function claim(nodes) {
     			throw new Error("options.hydrate only works if the component was compiled with the `hydratable: true` option");
@@ -3988,14 +3988,14 @@ var app = (function () {
     			type: "skills",
     			label: "Skills",
     			details: [
-    				["/png/flutter.png", "Flutter"],
-    				["/png/react.png", "React"],
-    				["/png/python.png", "Python"],
-    				["/png/rust.png", "Rust"],
-    				["/png/linux.png", "Linux"],
-    				["/png/azure.png", "Azure"],
-    				["/png/mysql.png", "MySQL"],
-    				["/png/mongo-db.png", "MongoDB"]
+    				["/resumed/png/flutter.png", "Flutter"],
+    				["/resumed/png/react.png", "React"],
+    				["/resumed/png/python.png", "Python"],
+    				["/resumed/png/rust.png", "Rust"],
+    				["/resumed/png/linux.png", "Linux"],
+    				["/resumed/png/azure.png", "Azure"],
+    				["/resumed/png/mysql.png", "MySQL"],
+    				["/resumed/png/mongo-db.png", "MongoDB"]
     			]
     		},
     		{
