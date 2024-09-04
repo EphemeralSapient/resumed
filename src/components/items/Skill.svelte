@@ -24,4 +24,4 @@ img { /* Optional: Add some spacing around the image */
 }
 
 </style>
-<div class="skill"><img width="20" height="20" src={skillImage} alt=""/>  {skillName}</div>
+<div class="skill"><img width="20" height="20" src={skillImage} alt={skillName}/>  {skillName}</div>

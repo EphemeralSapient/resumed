@@ -1,7 +1,7 @@
 <script>
 	import MainColumn from './MainColumn.svelte';
 	import SideColumn from './SideColumn.svelte';
-
+	const base = "/resumed/";
 	export const sideColumn = [
 		{
 			type: 'contact',
@@ -53,14 +53,14 @@
 			type: 'skills',
 			label: 'Skills',
 			details: [
-				["/resumed/png/flutter.png","Flutter"],
-				["/resumed/png/react.png","React"],
-				["/resumed/png/python.png", "Python"],
-				["/resumed/png/rust.png", "Rust"],
-				["/resumed/png/linux.png","Linux"],
-				["/resumed/png/azure.png", "Azure"],
-				["/resumed/png/mysql.png", "MySQL"],
-				["/resumed/png/mongo-db.png","MongoDB"]
+				[base + "png/flutter.png","Flutter"],
+				[base + "png/react.png","React"],
+				[base + "png/python.png", "Python"],
+				[base + "png/rust.png", "Rust"],
+				[base + "png/linux.png","Linux"],
+				[base + "png/azure.png", "Azure"],
+				[base + "png/mysql.png", "MySQL"],
+				[base + "png/mongo-db.png","MongoDB"]
 				
 			],
 		},
