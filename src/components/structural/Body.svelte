@@ -41,7 +41,7 @@
 						{
 							isLink: true,
 							type: 'web',
-							url: 'https://www.linkedin.com/in/ilavarasan-sampath-789372269',
+							url: 'https://www.linkedin.com/in/ilavarasan-sampath-/',
 							text: 'Ilavarasan Sampath',
 							icon: 'linkedin',
 						},
