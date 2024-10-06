@@ -203,7 +203,7 @@
 					description: "Various mini projects for learning and exploring new technologies",
 					list: [
 						"Score board controller using UART communication - Flutter",
-						"Pastebin alike app with Tonic[Rust] and React - semp.myftp.org/txts",
+						"Pastebin alike app with Tonic[Rust] and React - semp.myftp.org/txtz",
 						"Gemini and ChatGPT API integration on communication platform - Nodejs",
 					]
 				}
